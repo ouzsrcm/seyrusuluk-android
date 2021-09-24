@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Seyr-u Sülûk</string>
+    <string name="title_item_detail">item Detail</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">SEYR-U\nSÜLÛK</string>
+
+</resources>
